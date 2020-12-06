@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+#main {
+  align-content: center;
+}
+
+.center-this {
+  margin: auto;
+  margin-top: 25vh;
+}
+
+.square-200 {
+  height: 200px;
+  width: 200px;
+}
+
+#loading-spinner {
+  height: 200px;
+  width: 200px;
+}
