@@ -36,5 +36,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "React front-end project",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstroSnout/ot-task.git"
+  },
+  "author": "Filip Tasin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AstroSnout/ot-task/issues"
+  },
+  "homepage": "https://github.com/AstroSnout/ot-task#readme"
 }
