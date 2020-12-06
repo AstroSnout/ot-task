@@ -9,3 +9,4 @@ Installation instructions:
 - Rename the file '.env-git' to '.env'  
 - Edit the renamed '.env' file and add your API key from etherscan (no quotations required, just paste in the API key)  
 - Run the app through 'start_script.py'  
+- The API server should be up and running :)  
