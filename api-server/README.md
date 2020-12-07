@@ -2,6 +2,7 @@
   
 Requirements:  
 - Latest Python 3 installed (you can get it [here](https://www.python.org/downloads/))  
+- Latest Google Chrome browser installed on the system
   
 Installation instructions:  
 - Get the source code  
@@ -13,4 +14,4 @@ Installation instructions:
 - The API server should be up and running :)  
   
 Potential issues:
-- If you get an error thrown during start up (Scraper has no attribute "driver"), try updating your Chrome (not the driver)
+- If you get an error thrown during start up (Scraper has no attribute "driver"), try updating your Chrome browser (not the driver)
