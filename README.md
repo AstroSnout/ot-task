@@ -5,4 +5,4 @@ The project is comprised of two separate apps - API server (Python) and Front-en
   
 Instructions on how to run both of the apps are located in the README files in their respective folders.  
   
-If you plan on running both locally, keep in mind that CORS is a thing, so you would need to disable web security on your browse. Otherwise, the front-end app will not be able to send API requests to the API server app.  
+If you plan on running both locally, keep in mind that CORS is a thing, so you would need to open the front-end app in a [browser that is running without CORS](https://alfilatov.com/posts/run-chrome-without-cors/). Otherwise, the front-end app will not be able to send API requests to the API server app.
